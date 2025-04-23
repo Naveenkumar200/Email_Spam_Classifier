@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+jupyter
+
+👉 This covers:
+
+Data handling: numpy, pandas
+
+ML model & vectorization: scikit-learn
+
+Notebook environment: jupyter (optional — remove if not using notebooks)
